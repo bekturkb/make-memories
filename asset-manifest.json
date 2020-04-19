@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/make-memories/static/css/main.5f361e03.chunk.css",
+    "main.js": "/make-memories/static/js/main.2371c025.chunk.js",
+    "main.js.map": "/make-memories/static/js/main.2371c025.chunk.js.map",
+    "runtime-main.js": "/make-memories/static/js/runtime-main.a5e3848e.js",
+    "runtime-main.js.map": "/make-memories/static/js/runtime-main.a5e3848e.js.map",
+    "static/js/2.fcdb3b9e.chunk.js": "/make-memories/static/js/2.fcdb3b9e.chunk.js",
+    "static/js/2.fcdb3b9e.chunk.js.map": "/make-memories/static/js/2.fcdb3b9e.chunk.js.map",
+    "index.html": "/make-memories/index.html",
+    "precache-manifest.9c605ea6d346c38002e76566d4be76a8.js": "/make-memories/precache-manifest.9c605ea6d346c38002e76566d4be76a8.js",
+    "service-worker.js": "/make-memories/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/make-memories/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fcdb3b9e.chunk.js.LICENSE.txt": "/make-memories/static/js/2.fcdb3b9e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/make-memories/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e3848e.js",
+    "static/js/2.fcdb3b9e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2371c025.chunk.js"
+  ]
+}
